@@ -30,3 +30,27 @@ li {
     font-size: 28px;
     font-family: 'pacifico',cursive;
 }
+
+.football {
+    color: darkblue;
+}
+
+.point {
+     color :gray;
+}
+
+.food {
+    color: brown;
+}
+
+.game {
+    color: orange;
+}
+
+.dance {
+    color: yellow;
+}
+
+.guard {
+    color: lightblue;
+}
