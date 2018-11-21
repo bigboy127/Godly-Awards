@@ -1,11 +1,12 @@
 p {
     text-align: center;
     color: white;
-    font-size: 28px;
+    font-size: 30px;
+    background-color: white;
 }
 
 body {
-    background: url("https://img.freepik.com/free-vector/watercolor-background-with-stars_23-2147659850.jpg?size=338&ext=jpg");
+    background: url("https://lh3.googleusercontent.com/-kXgnoxygqxg/VZ_BKQZouzI/AAAAAAAAOKw/3t37cBDLrLkUetLA8AfsDAngwIzD-9XFwCJoC/w500-h629-n/a14%2Bcosmic%2Benergies%2Bgif.gif");
     background-size: cover;
     text-align: center;
     border: 20px;
@@ -13,7 +14,7 @@ body {
 }
 
 img {
-    width: 500px;
+    width: 600px;
     border: solid;
     color: white;
 }
@@ -35,9 +36,7 @@ li {
     color: darkblue;
 }
 
-.point {
-     color :gray;
-}
+
 
 .food {
     color: brown;
@@ -54,3 +53,8 @@ li {
 .guard {
     color: lightblue;
 }
+
+.cardinals {
+    color: red;
+}
+
